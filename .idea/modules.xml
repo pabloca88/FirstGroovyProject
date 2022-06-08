@@ -2,7 +2,19 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/FirstGroovyProject.iml" filepath="$PROJECT_DIR$/FirstGroovyProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/yes.iml" filepath="$PROJECT_DIR$/.idea/modules/yes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/yes.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/yes.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/yes.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/yes.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/yes.app.test.iml" filepath="$PROJECT_DIR$/.idea/modules/app/yes.app.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/yes.buildSrc.iml" filepath="$PROJECT_DIR$/.idea/modules/yes.buildSrc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/yes.buildSrc.main.iml" filepath="$PROJECT_DIR$/.idea/modules/yes.buildSrc.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/yes.buildSrc.test.iml" filepath="$PROJECT_DIR$/.idea/modules/yes.buildSrc.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/list/yes.list.iml" filepath="$PROJECT_DIR$/.idea/modules/list/yes.list.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/list/yes.list.main.iml" filepath="$PROJECT_DIR$/.idea/modules/list/yes.list.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/list/yes.list.test.iml" filepath="$PROJECT_DIR$/.idea/modules/list/yes.list.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/utilities/yes.utilities.iml" filepath="$PROJECT_DIR$/.idea/modules/utilities/yes.utilities.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/utilities/yes.utilities.main.iml" filepath="$PROJECT_DIR$/.idea/modules/utilities/yes.utilities.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/utilities/yes.utilities.test.iml" filepath="$PROJECT_DIR$/.idea/modules/utilities/yes.utilities.test.iml" />
     </modules>
   </component>
 </project>

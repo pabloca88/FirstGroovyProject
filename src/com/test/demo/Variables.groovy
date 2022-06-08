@@ -1,4 +1,4 @@
-package com.test.demo
+
 
 def name_1 = "Pablo"
 println name_1
